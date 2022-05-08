@@ -4,7 +4,7 @@ Usage:
     
     python3.7 cifraclub-to-epub.py music_list.txt
 
-The script looks for [cifraclub.com.br](cifraclub.com.br) urls in `music_list.txt`.  
+The script looks for [cifraclub.com.br](https://www.cifraclub.com.br/) urls in `music_list.txt`.  
 The script uses the order from the file.
 The final file will be called `<file_name>.epub`
 
